@@ -1,5 +1,6 @@
-# Detecting outlying demand in multi-leg bookings for transportation networks
-The R Code corresponding to the paper "Detecting outlying demand in multi-leg bookings for transportation networks".
+# Data-driven outlier detection for demand management in transportation networks
+
+The R code corresponding to the paper "Data-driven outlier detection for demand management in transportation networks". Previously submitted to arXiv as ["Detecting outlying demand in multi-leg bookings for transportation networks"](https://arxiv.org/abs/2104.04157).
 
 ## Prepare the data
 
