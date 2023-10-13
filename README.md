@@ -1,6 +1,6 @@
-# Data-driven outlier detection for demand management in transportation networks
+# Outlier detection in network revenue management
 
-The R code corresponding to the paper "Data-driven outlier detection for demand management in transportation networks". Previously submitted to arXiv as ["Detecting outlying demand in multi-leg bookings for transportation networks"](https://arxiv.org/abs/2104.04157).
+The R code corresponding to the paper "Outlier detection in network revenue management". Previously submitted to arXiv as ["Detecting outlying demand in multi-leg bookings for transportation networks"](https://arxiv.org/abs/2104.04157).
 
 ## Prepare the data
 
