@@ -27,7 +27,7 @@ Applies a functional regression to calculate the residual booking patterns. The 
 ### `correlation_matrix_function.R`
 Takes as input a list of legs for which the correlations should be calculated. Returns a matrix with containing the functional dynamical correlations.
  
-### `mst_clustering_threshold.R
+### `mst_clustering_threshold.R`
 Returns a list of clusters where each list item contains a vector of leg names in each cluster. This function calls `invert_graph.R`.
 
 ## Find and aggregate the outliers (run for each cluster)
